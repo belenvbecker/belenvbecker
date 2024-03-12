@@ -12,8 +12,8 @@
 ### :woman_technologist: **About me:**
 
 - 👋 Hi, I’m Belén Viglioglia Becker
-- 👀 I’m interested in Data Science and UX/UI Design 🚀🚀
-- 🌱 I’m a graduate Data Science at Henry
+- 🎓 I’m a Data Scientist and UX/UI Designer 🚀🚀
+- 🔥 I´m passionate about Arts, Music, Technology, and of course, above all, data
 - 💞️ I’m looking to collaborate on Data Analyst and Data Engineering projects
 - 📫 You can reach me at:
 </div >
